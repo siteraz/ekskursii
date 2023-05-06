@@ -37,8 +37,9 @@
 }
 
 html{
-	font: normal 16px sans-serif;
-	color: #555;
+	font-family: 'Orelega One', cursive;
+	font: normal 16px;
+	color: #151515;
 }
 
 ul, nav{
@@ -99,15 +100,15 @@ section{
 }
 
 section h3.title{
+	font-family: 'Orelega One', cursive;
 	color: #414a4f;
-	font: bold 32px 'Open Sans', sans-serif;
+	font-size: 38px;
 	margin-bottom: 35px;
 	text-align: center;
 }
 
 section p{
 	max-width: 800px;
-	text-align: center;
 	margin-bottom: 35px;
 	padding: 0 10px;
 	line-height: 2;
@@ -148,7 +149,7 @@ header{
 }
 
 header h2{
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Orelega One', cursive;
 	text-align: center;
 }
 
@@ -361,7 +362,6 @@ header nav li:last-child{
 }
 
 .reviews .quote{
-	text-align: center;
 	width: 80%;
     font-size: 22px;
     font-weight: 300;
